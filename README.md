@@ -3,7 +3,7 @@ The Tasmota project forks for ESP8285/ESP32 (TTGO Heltec)
 
 <br>
 A 433MHz Doorbell signal decoding <br>
-<img src="pic/DoorBell433.png" width=480/>
+<img src="pic/DoorBell433.png" width=720/>
 <br><br>
 
 ## References
