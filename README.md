@@ -7,6 +7,6 @@ A 433MHz Doorbell signal decoding <br>
 <br><br>
 
 ## References
-  - [Arduino Tasmota Library](https://github.com/arendst/Tasmota) An Arduino library with RF Wifi bridge/gateway.
-  - [URH](https://github.com/jopohl/urh) Universal Radio Hacker tool for _SDR_.
+  - [Arduino Tasmota Library] (https://github.com/arendst/Tasmota) An Arduino library with RF Wifi bridge/gateway.
+  - [URH] (https://github.com/jopohl/urh) Universal Radio Hacker tool for _SDR_.
   - [RTL-433] (https://github.com/merbanan/rtl_433) RF decoding utility for _SDR_.
