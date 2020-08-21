@@ -5,6 +5,10 @@ The Tasmota project forks for ESP8285/ESP32 (TTGO Heltec)
 A 433MHz Doorbell signal decoding w/ URH & RTL-433<br>
 <img src="pic/DoorBell433.png" width=720/>
 <br><br>
+<img src="pic/SOS433_0820.gif" width=640/>
+Uploaded an AudioFSK clip [SOS AFSK](https://github.com/jmysu/Tasmota_ESP8285_ESP32/blob/master/pic/SOS433_0820.mp4)
+<br><br>
+
 
 ## References
   - [Arduino Tasmota Library] (https://github.com/arendst/Tasmota) An Arduino library with RF Wifi bridge/gateway.
