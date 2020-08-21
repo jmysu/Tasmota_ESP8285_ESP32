@@ -7,7 +7,7 @@ A 433MHz Doorbell signal decoding w/ URH & RTL-433<br>
 <br><br>
 <img src="pic/SOS433_0820.gif" width=640/>
 Uploaded an AudioFSK clip [SOS AFSK](https://github.com/jmysu/Tasmota_ESP8285_ESP32/blob/master/pic/SOS433_0820.mp4)
-Codes are kept in PlatformIO folder...
+Codes (Lora mode changes to FSK mode) are kept in PlatformIO folder...
 <br><br>
 
 
